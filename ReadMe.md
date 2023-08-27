@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><img width="64" alt="java" src="https://github.com/SalihPolat32/SalihPolat32/assets/97470567/6ef8fd9e-38c3-4f10-b246-b851579e0ca9">
- Junior Java Developer<br>🌱 I’m currently learning<br>⚡ Fun fact
+<br>👨‍💻 Junior Java Developer<br>🌱 I’m currently learning<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
