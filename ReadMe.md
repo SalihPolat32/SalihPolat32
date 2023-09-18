@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Junior Java Developer<br>🌱 I’m currently learning<br>⚡ Fun fact
+👨‍💻 Junior Full Stack (Java) Developer<br>🌱 I’m currently learning<br>⚡ Fun fact
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salih-polat) 
