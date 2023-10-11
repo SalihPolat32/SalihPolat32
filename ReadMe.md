@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232F768A&size=35&duration=2400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B;+I'm+Salih+Polat+DÖNMEZ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232F768A&size=35&duration=2400&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi!+%F0%9F%91%8B;+I'm+Salih+Polat+DÖNMEZ)](https://git.io/typing-svg)
 
 # 💫 About Me:
 👨‍💻 Junior Full Stack (Java) Developer<br>🌱 I’m currently learning<br>⚡ Fun fact<br>📫 How to reach me salihpolat327@gmail.com
